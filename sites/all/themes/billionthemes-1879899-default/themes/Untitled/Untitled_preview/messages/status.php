@@ -1,0 +1,1 @@
+<?php variable_set('status_class', 'data-control-id-3294 bd-successmessage-1 alert alert-success'); ?>

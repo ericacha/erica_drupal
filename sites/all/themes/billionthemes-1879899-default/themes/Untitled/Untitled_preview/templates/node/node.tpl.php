@@ -1,0 +1,1 @@
+<!-- Must be empty to recognize another theme files -->

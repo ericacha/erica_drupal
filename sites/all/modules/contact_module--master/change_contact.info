@@ -1,0 +1,5 @@
+name = Change Contact
+description = Removes the "send yourself a copy" checkbox and subject line.
+package = Epicodus Example
+core = 7.x
+files[] = change_contact.module

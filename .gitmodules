@@ -1,0 +1,9 @@
+[submodule "sites/all/modules/titlecase"]
+	path = sites/all/modules/titlecase
+	url = https://github.com/ericacha/titlecase_test_module.git
+[submodule "sites/all/modules/triangle"]
+	path = sites/all/modules/triangle
+	url = https://github.com/ericacha/triangle_module.git
+[submodule "sites/all/modules/dna"]
+	path = sites/all/modules/dna
+	url = https://github.com/ericacha/dna__module.git

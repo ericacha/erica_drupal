@@ -1,3 +1,10 @@
+ERICA PORTFOLIO
+
+DB = cha_portfolio
+Username = erica
+Password = erica
+
+
 
 CONTENTS OF THIS FILE
 ---------------------

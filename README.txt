@@ -20,4 +20,4 @@ Password = erica
 
 
 ##License
-MIT License
+ [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)

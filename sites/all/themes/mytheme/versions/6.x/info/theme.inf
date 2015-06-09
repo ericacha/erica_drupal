@@ -1,0 +1,11 @@
+name = {theme_name}
+description = Billion Themler theme
+version = VERSION
+core = 6.x
+engine = phptemplate
+screenshot = versions/6.x/screenshot.png
+
+stylesheets[all][] = css/system.css
+stylesheets[all][] = css/system-menus.css
+
+regions[content] = Content

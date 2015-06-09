@@ -1,0 +1,1 @@
+<?php variable_set('search_block_form_class', 'data-control-id-3308 bd-searchwidget-2 form-inline'); ?>

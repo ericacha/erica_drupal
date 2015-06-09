@@ -1,0 +1,1 @@
+<?php variable_set('search_theme_form_class', ' bd-search-3 form-inline'); ?>

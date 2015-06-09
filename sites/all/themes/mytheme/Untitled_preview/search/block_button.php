@@ -1,0 +1,1 @@
+<?php variable_set('search_block_form_button_class', 'data-control-id-3298 bd-button-7'); ?>

@@ -1,1 +1,0 @@
-<?php variable_set('search_block_form_class', ' bd-searchwidget-2 form-inline'); ?>

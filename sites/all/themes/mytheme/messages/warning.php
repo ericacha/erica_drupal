@@ -1,1 +1,0 @@
-<?php variable_set('warning_class', ' bd-warningmessage-1 alert alert-warning'); ?>

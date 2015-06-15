@@ -1,1 +1,0 @@
-<?php variable_set('search_theme_form_button_class', 'data-control-id-1239 bd-button'); ?>

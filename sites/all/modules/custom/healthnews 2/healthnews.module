@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HealthNews feature.
+ */
+
+include_once 'healthnews.features.inc';

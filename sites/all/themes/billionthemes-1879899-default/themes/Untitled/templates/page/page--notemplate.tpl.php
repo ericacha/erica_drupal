@@ -1,1 +1,0 @@
-<?php echo Untitled_render_notemplate_content($notemplate); ?>

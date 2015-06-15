@@ -1,7 +1,0 @@
-; $Id$
-name = Billion Themler
-description = Billion Themler Module for in Drupal.
-core = 6.x
-version = VERSION
-files[] = themler.module
-dependencies[] = path

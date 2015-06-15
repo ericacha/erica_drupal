@@ -1,1 +1,0 @@
-<?php variable_set('error_class', ' bd-errormessage-1 alert alert-danger'); ?>

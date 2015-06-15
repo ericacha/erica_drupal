@@ -1,1 +1,0 @@
-<?php variable_set('status_class', ' bd-successmessage-1 alert alert-success'); ?>

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Health feature.
+ */
+
+include_once 'health.features.inc';
